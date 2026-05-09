@@ -152,7 +152,7 @@ Display Result to User
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/GreenMed.git
+git clone https://github.com/pithenebula/GreenMed.git
 cd GreenMed
 ```
 
@@ -255,17 +255,20 @@ Workout:
 # Screenshots
 
 ## Home Page
-(Add screenshot here)
+<img src="blob:https://web.whatsapp.com/e445d301-c609-4d4d-8b90-98dfffb40fc5"/><img width="1001" height="524" alt="image" src="https://github.com/user-attachments/assets/cb2be339-7d52-4f8c-9f15-8dc827c2489d" />
+
 
 ---
 
 ## Symptom Input
-(Add screenshot here)
+<img src="blob:https://web.whatsapp.com/66be7fa9-1f6c-4cad-aac4-ffe627fc5c78"/><img width="953" height="501" alt="image" src="https://github.com/user-attachments/assets/1d86287b-cf38-4ff9-9fee-74841d10db3a" />
+
 
 ---
 
 ## Prediction Output
-(Add screenshot here)
+<img src="blob:https://web.whatsapp.com/6382941e-64a3-4b7d-b962-d8c52cc9f61b"/><img width="868" height="587" alt="image" src="https://github.com/user-attachments/assets/c060827a-b3b5-4bc4-a09b-1dd621af581c" />
+
 
 ---
 
